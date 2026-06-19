@@ -1,6 +1,6 @@
-[![MasterHead](https://i.pinimg.com/736x/df/b9/4e/dfb94e789cc44e337f7d1d78256e5880.jpg)]
-<h1 align="center">Hi 👋, I'm Angaddeep Singh</h1>
-<h3 align="center">A passionate developer and designer from India</h3>
+
+<h1 align="left">Hi 👋, I'm Angaddeep Singh</h1>
+<h3 align="left">A passionate developer and designer from India</h3>
 
 - 🌱 I’m currently learning **JavaScript, C++**
 
